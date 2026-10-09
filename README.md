@@ -289,6 +289,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://tinybird.co/favicon.ico" height="14"/> [Tinybird](https://github.com/tinybirdco/mcp-tinybird)<sup><sup>⭐</sup></sup> - Interact with a Tinybird Workspace from any MCP client.
 
 <br />
+- [LocalCloud MCP](https://github.com/LocalGCloud/localcloud-cli) - Free local cloud environment for AI coding agents to build, test, and debug Google Cloud apps with service discovery, SDK configuration, data inspection, and diagnostics. Requires CLI 0.1.9+. [Website](https://local.cloud/) · [MCP guide](https://local.cloud/docs/mcp/).
 
 ## ⚙️ <a name="workflow-automation"></a>Workflow Automation
 
